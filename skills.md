@@ -661,7 +661,7 @@ simple and memorable, suitable for app icon"
 
 ---
 
-## Paso 6: Validación y Empaquetado
+## Paso 6: Validación y Empaquetadoo
 
 ### 6.1 Estructura Final del Proyecto
 
